@@ -18,7 +18,7 @@
 
     <properties>
         <plugin.id>live-plugin</plugin.id>
-        <plugin.class>com.yupaopao.live.plugin.LivingPlugin</plugin.class>
+        <plugin.class>com.xxx.live.plugin.LivingPlugin</plugin.class>
         <plugin.version>0.0.1</plugin.version>
         <plugin.provider>liuchuan</plugin.provider>
         <plugin.dependencies/>

@@ -17,7 +17,7 @@
 
 
     <properties>
-        <main.class>com.yupaopao.app.Boot</main.class>
+        <main.class>com.xxx.app.Boot</main.class>
     </properties>
 
 

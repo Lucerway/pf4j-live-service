@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.yupaopao.app.service;
+package com.xxx.app.service;
 
-import com.yupaopao.live.api.LivingApi;
+import com.xxx.live.api.LivingApi;
 import org.pf4j.Extension;
 
 /**

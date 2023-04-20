@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.yupaopao.live.api;
+package com.xxx.live.api;
 
 import org.pf4j.ExtensionPoint;
 
