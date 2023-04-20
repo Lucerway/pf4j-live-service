@@ -23,7 +23,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 /**
- * A boot class that start the demo.
+ * A boot class that start the demo. 主函数
  *
  * @author liuchuan
  */
